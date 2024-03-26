@@ -1,5 +1,5 @@
 # Cute pop-up project
-This is just something I created to play with pop-ups and to try adaptive css (I still have some probelms with the background image tho)
+This is just something I created to play with pop-ups and to try adaptive css (I still have some probelms with the background image on my mobile phone tho)
 
 If you just want to see what happens you need to download all the files in the same folder (on your computer) and then execute the index.html one. 
 
